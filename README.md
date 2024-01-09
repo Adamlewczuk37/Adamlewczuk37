@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adamlewczuk37
-- 👀 I’m interested in embedded software, IoT, and ML.
-- 🌱 I’m currently learning Computer Engineering & CS @ USC.
-- 💞️ I’m able to collaborate on HW and/or SW projects.
+- 👀 I’m interested in embedded software, digital logic design, and machine learning.
+- 🌱 I’m currently studying Computer Engineering & CS @ USC.
+- 💞️ I’m capable of doing work in both hardware and software.
 - 📫 How to reach me: lewczuk@usc.edu (primary gmail).
 
 <!---
